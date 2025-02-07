@@ -1,0 +1,15 @@
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\bin\Debug\net8.0\DDDProject.Infrastructure.deps.json
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\bin\Debug\net8.0\DDDProject.Infrastructure.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\bin\Debug\net8.0\DDDProject.Infrastructure.pdb
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\bin\Debug\net8.0\DDDProject.Domain.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\bin\Debug\net8.0\DDDProject.Domain.pdb
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.AssemblyInfo.cs
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProje.8EC9D92F.Up2Date
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\refint\DDDProject.Infrastructure.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.pdb
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\ref\DDDProject.Infrastructure.dll
