@@ -13,3 +13,4 @@ C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Application\o
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Application\obj\Debug\net8.0\refint\DDDProject.Application.dll
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Application\obj\Debug\net8.0\DDDProject.Application.pdb
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Application\obj\Debug\net8.0\ref\DDDProject.Application.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Application\obj\Debug\net8.0\DDDProject.Application.sourcelink.json

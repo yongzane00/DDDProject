@@ -1,0 +1,23 @@
+# Build files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.cache
+
+# Logs and temporary files
+logs/
+*.log
+temp/
+
+# .NET specific
+*.db
+appsettings.json
+appsettings.Development.json

@@ -13,3 +13,4 @@ C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructur
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\refint\DDDProject.Infrastructure.dll
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.pdb
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\ref\DDDProject.Infrastructure.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.Infrastructure\obj\Debug\net8.0\DDDProject.Infrastructure.sourcelink.json

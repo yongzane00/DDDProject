@@ -49,3 +49,4 @@ C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.API\obj\Debug
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.API\obj\Debug\net8.0\DDDProject.API.genruntimeconfig.cache
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.API\obj\Debug\net8.0\ref\DDDProject.API.dll
 C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\yongz\Desktop\Microservice_Training\DDDProject\DDDProject.API\obj\Debug\net8.0\DDDProject.API.sourcelink.json
